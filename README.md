@@ -1,5 +1,4 @@
 Alura Plus
-https://Combo.png
 
 Projeto de página web para a Alura Plus, uma plataforma de assinatura que combina os benefícios do Alura+ e Alura Língua em um único plano.
 
